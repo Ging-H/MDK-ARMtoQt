@@ -22,11 +22,11 @@
 
 2. 作为Keil的自定义工具生成
 
-   * 将软件添加进keil的自定义工具菜单中
+   * 将软件添加进keil的自定义工具菜单中  
      ![image-20211004160239091](https://i.loli.net/2021/10/04/gBycOvaWikIZPER.png)
-   * 将添加一个菜单项,`Command`选择该软件的路径,`Arguments`填入`#P`
+   * 将添加一个菜单项,`Command`选择该软件的路径,`Arguments`填入`#P`  
      ![image-20211004160415859](https://i.loli.net/2021/10/04/rFzw29ivEJVnSBm.png)
-   * 打开当前项目,点击`MDK5to Qt`生成Qt的项目文件
+   * 打开当前项目,点击`MDK5to Qt`生成Qt的项目文件  
      ![image-20211004160547960](https://i.loli.net/2021/10/04/6ctquN1DaxVX2ez.png)
    * 使用`QtCreator`打开新生成的`*.creator`文件
 
