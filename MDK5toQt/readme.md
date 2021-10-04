@@ -25,9 +25,10 @@
 >> 注意: \*.uvprojx不能保存在磁盘根目录下
 # 源码编译
 源码相关的开发环境:
-* QT5.9.0
-* MSVC2015 32bit
-* QtCreator4.3.0(community)
+ * QT5.9.0
+ * MSVC2015 32bit
+ * QtCreator4.3.0(community)  
+  
 是一个控制台应用,使用了<xml>模块,直接打开`MDK5toQt.pro`即可打开完整的项目工程,其中的mdk5doc.cpp是未完成的文件,用于存储mdk5相关的信息,是后来才添加进去的,不影响main.cpp的编译
 
 
