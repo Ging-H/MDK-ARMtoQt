@@ -22,3 +22,4 @@
 ![image-20211004160811283](https://i.loli.net/2021/10/04/9DaX2WKZkANhsRb.png)
 
 选择`*.creator`,双击打开,或者直接打开`QtCreator`,然后在`QtCreator`里面打开这个文件,或者在打开`QtCreator`之后,将这个文件拖拽到`QtCreator`上.
+>> 注意: \*.uvprojx不能保存在磁盘根目录下
