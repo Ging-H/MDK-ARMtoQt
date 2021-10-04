@@ -1,4 +1,4 @@
-## 使用方法
+# 使用方法
 
 1. 直接生成
    * 把Keil MDK(v5)工程文件(`*.uvprojx`)拖动到MDK5toQt.exe上
@@ -15,7 +15,7 @@
      ![image-20211004160547960](https://i.loli.net/2021/10/04/6ctquN1DaxVX2ez.png)
    * 使用`QtCreator`打开新生成的`*.creator`文件
 
-   ## 打开QT工程
+ 3. 打开QT工程
 
 新生成的文件有以下4个文件
 
